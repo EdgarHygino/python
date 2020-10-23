@@ -3,5 +3,5 @@ def Soma(a):
     for i in range(a):
         r= r+i
     return r
-s = Soma(5)
+s = Soma(4)
 print(s)
