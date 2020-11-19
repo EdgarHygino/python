@@ -1,4 +1,14 @@
 {
-    "python.linting.pylintEnabled": true,
-    "python.linting.enabled": false
+    "python.pythonPath": "/usr/bin/python3",
+    "code-runner.executorMap": {
+        "python": "venv/bin/python",
+    },
+    "python.testing.pytestArgs": [
+        "python_Mundo_1"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": true,
+    
+    
 }
