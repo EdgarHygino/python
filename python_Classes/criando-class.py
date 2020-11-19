@@ -13,7 +13,7 @@ class Conta:
     def Depositar(self, valor):
         self.saldo += valor
 
-conta1 = Conta('Jão', 1)
+conta1 = Conta('João', 1)
 conta1.Depositar(100.00)
 print(conta1.Saldo())
 print(conta1.getCliente())
@@ -22,3 +22,4 @@ conta2 = Conta('Maria', 2)
 conta2.Depositar(200.00)
 print(conta2.Saldo())
 print(conta2.getCliente())
+
