@@ -12,4 +12,4 @@ Você pode comparar com os seus exercício e tirar suas dúvidas.
 
 Porém não deixe de assistir a resuloção de cada exercícios no site ou no youtube do Curso em Video.
 
-<a href=https://www.youtube.com/watch?v=nIHq1MtJaKs&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT->Curso em Video</a>
+<a href="https://www.youtube.com/watch?v=nIHq1MtJaKs&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-">Curso em Video</a>
